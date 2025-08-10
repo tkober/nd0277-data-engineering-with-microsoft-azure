@@ -11,5 +11,7 @@
   "notebook.formatOnSave.enabled": true,
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit"
-  }
+  },
+  "jupyter.jupyterServerType": "local",
+  "jupyter.askForKernelRestart": false
 }
