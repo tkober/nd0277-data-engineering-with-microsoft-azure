@@ -93,5 +93,5 @@ In this lesson, you'll learn about features of Azure Data Factory and Synapse An
 ### [Project: Data Integration Pipelines for NYC Payroll Data Analytics](https://github.com/tkober/nd0277-data-engineering-with-microsoft-azure-project-4)  
 In this project, you'll build data pipelines for an analytics platform for the City of New York.
 
-
-[def]: ./course-4-data-lakes-and-lakehouses-with-spark-and-azure-databricks
+# Certificate
+[![Certificate](images/certificate.png)](https://www.udacity.com/certificate/e/8ff91bc4-e556-11ef-b150-97090e2f60d3)
