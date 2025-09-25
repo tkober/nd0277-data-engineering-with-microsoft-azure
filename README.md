@@ -1,4 +1,6 @@
-#### ND0277 - Data Engineering with Microsoft Azure
+#### [ND0277 - Data Engineering with Microsoft Azure](https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277)
+
+[![Data Engineering with Microsoft Azure Nanodegree](images/nd_header.png)](https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277)
 
 ## [Course 2: Data Modelling](./course-2-data-modelling)  
 Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.
@@ -12,7 +14,7 @@ In this lesson, students understand the purpose of data modeling, the strengths 
 **[Lesson 3: NoSQL Data Models](./course-2-data-modelling/Lesson_3-NoSQL-Data-Models/)**  
 Students will understand when to use non-relational databases based on the data business needs, their strengths and weaknesses, and how to create tables in Apache Cassandra.
 
-### [Project: Data Modelling with Apache Cassandra](./https://github.com/tkober/nd0277-data-engineering-with-microsoft-azure-project-1)  
+### [Project: Data Modelling with Apache Cassandra](https://github.com/tkober/nd0277-data-engineering-with-microsoft-azure-project-1)  
 Students will model event data to create a non-relational database and ETL pipeline for a music streaming app. They will define queries and tables for a database built using Apache Cassandra.
 
 ## [Course 3: Cloud Data Warehouses with Azure](./course-3-cloud-data-warehouses-with-azure)  
@@ -33,7 +35,7 @@ In this lesson, you will learn about specific data warehouse technologies and so
 **Lesson 5: Implementing Data Warehouses in Azure**  
 In this lesson, you will have the opportunity to implement a data warehouse in Azure using Synapse.
 
-### [Project: Building an Azure Data Warehouse for Bike Share Data Analytics](./https://github.com/tkober/nd0277-data-engineering-with-microsoft-azure-project-2)  
+### [Project: Building an Azure Data Warehouse for Bike Share Data Analytics](https://github.com/tkober/nd0277-data-engineering-with-microsoft-azure-project-2)  
 In this project, you will develop a data warehouse solution using Azure Synapse Analytics to analyze bike share data.
 
 ## [Course 4: Data lakes and Lakehouses with Spark and Azure Databricks](./course-4-data-lakes-and-lakehouses-with-spark-and-azure-databricks)  
