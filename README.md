@@ -1,6 +1,4 @@
-./
-
-**Lesson: ND0277 - Data Engineering with Microsoft Azure**
+#### ND0277 - Data Engineering with Microsoft Azure
 
 ## [Course 2: Data Modelling](./course-2-data-modelling)  
 Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.
